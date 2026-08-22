@@ -811,6 +811,15 @@
 
 <div class="trow">
 	<div class="tile">
+		<h3>ST-AudioLM</h3>
+		<img src="./assets/ST-AudioLM.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2606.14141">[arXiv]</a>
+		</h5>
+		<p>Spatio-Temporal Audio Language Modeling for Dynamic Sound Sources</p>
+		<div class="tile_venue">EMNLP26</div>
+	</div>
+	<div class="tile">
 		<h3>Odoriko</h3>
 		<img src="./assets/Odoriko.png">
 		<h5>
@@ -824,7 +833,8 @@
 		<h3>Spectral Alignment (SPA)</h3>
 		<img src="./assets/SPA.png">
 		<h5>
-			Coming soon
+			<a href="https://arxiv.org/abs/2607.22091">[arXiv]</a>
+			<a href="https://github.com/SonyResearch/SPA">[code]</a>
 		</h5>
 		<p>Spectral Prior for Reducing Exposure Bias in Diffusion Models</p>
 		<div class="tile_venue">ECCV26</div>
@@ -879,6 +889,7 @@
 		<h3>Diffiner for SE & SS</h3>
 		<img src="./assets/Diffiner4SEandSS.png">
 		<h5>
+			<a href="https://ieeexplore.ieee.org/document/11393528">[IEEE]</a>
 			<a href="https://arxiv.org/abs/2305.05857">[arXiv]</a>
 		</h5>
 		<p>A diffusion-based post-processor for perceptually improving speech enhancement and separation outputs</p>
