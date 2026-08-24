@@ -307,6 +307,64 @@
 <div class="cat_body">
 
 <div class="trow">
+
+
+
+	<div class="tile">
+		<h3>MCA</h3>
+		<a href=""><img src="./assets/mca.png"></a>
+		<h5>
+			<a href="">[EMNLP]</a>
+			<a href=""https://arxiv.org/abs/2510.15543>[arXiv]</a>
+			<a href="">[code]</a>
+		</h5>
+		<p>MCA: Modality Composition Awareness for Robust Composed Multimodal Retrieval</p>
+		<div class="tile_venue">EMNLP26</div>
+	</div>
+	<div class="tile">
+		<h3>MLLMCLIP</h3>
+		<a href=""><img src="./assets/mllmclip.png"></a>
+		<h5>
+			<a href="">[EMNLP]</a>
+			<a href="">[arXiv]</a>
+			<a href="">[code]</a>
+		</h5>
+		<p>MLLMCLIP: Feature-Level Distillation of MLLM for Robust Vision-Language Representations</p>
+		<div class="tile_venue">EMNLP26</div>
+	</div>
+	<div class="tile">
+		<h3>Syn-Omni</h3>
+		<a href=""><img src="./assets/synomni.png"></a>
+		<h5>
+			<a href="">[EMNLP]</a>
+			<a href="">[arXiv]</a>
+			<a href="">[code]</a>
+		</h5>
+		<p>Syn-Omni: Structured Specialization and Progressive Collaboration for Omnimodal Embeddings</p>
+		<div class="tile_venue">EMNLP26</div>
+	</div>
+	<div class="tile">
+		<h3>DynaVieW</h3>
+		<a href=""><img src="./assets/dynaview.png"></a>
+		<h5>
+			<a href="https://icml.cc/virtual/2026/poster/65080">[ICML]</a>
+			<a href="https://arxiv.org/abs/2607.04112">[arXiv]</a>
+			<a href="https://github.com/Silin159/DynaVieW">[code]</a>
+		</h5>
+		<p>DynaVieW: Schema-Guided World Modeling for Understanding Hierarchical Visual Dynamics</p>
+		<div class="tile_venue">ICML26</div>
+	</div>
+	<div class="tile">
+		<h3>LRPO</h3>
+		<a href=""><img src="./assets/lrpo.png"></a>
+		<h5>
+			<a href="https://icml.cc/virtual/2026/poster/66718">[ICML]</a>
+			<a href="https://arxiv.org/abs/2605.25360">[arXiv]</a>
+			<a href="https://github.com/Guochry/LRPO">[code]</a>
+		</h5>
+		<p>Learning to Route Languages for Multilingual Policy Optimization</p>
+		<div class="tile_venue">ICML26</div>
+	</div>
 	<div class="tile">
 		<h3>DeepResonance</h3>
 		<a href=""><img src="./assets/deepresonance.png"></a>
