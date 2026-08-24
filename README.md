@@ -315,7 +315,7 @@
 		<a href=""><img src="./assets/mca.png"></a>
 		<h5>
 			<a href="">[EMNLP]</a>
-			<a href=""https://arxiv.org/abs/2510.15543>[arXiv]</a>
+			<a href="https://arxiv.org/abs/2510.15543">[arXiv]</a>
 			<a href="">[code]</a>
 		</h5>
 		<p>MCA: Modality Composition Awareness for Robust Composed Multimodal Retrieval</p>
@@ -369,7 +369,7 @@
 		<h3>DeepResonance</h3>
 		<a href=""><img src="./assets/deepresonance.png"></a>
 		<h5>
-			[EMNLP]
+			<a href="https://aclanthology.org/2025.emnlp-main.653/">[EMNLP]</a>
 			<a href="https://arxiv.org/abs/2502.12623">[arXiv]</a>
 			<a href="https://github.com/sony/DeepResonance">[code]</a>
 		</h5>
@@ -380,9 +380,9 @@
 		<h3>CARE</h3>
 		<a href=""><img src="./assets/care.png"></a>
 		<h5>
-			[EMNLP]
+			<a href="https://aclanthology.org/2025.emnlp-main.1669/">[EMNLP]</a>
 			<a href="https://arxiv.org/abs/2504.05154">[arXiv]</a>
-			[data]
+			<a href="https://github.com/Guochry/CARE">[data]</a>
 		</h5>
 		<p>CARE: Assessing the Impact of Multilingual Human Preference Learning on Cultural Awareness</p>
 		<div class="tile_venue">EMNLP25</div>
