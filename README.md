@@ -314,9 +314,9 @@
 		<h3>MCA</h3>
 		<a href=""><img src="./assets/mca.png"></a>
 		<h5>
-			<a href="">[EMNLP]</a>
+			[EMNLP]
 			<a href="https://arxiv.org/abs/2510.15543">[arXiv]</a>
-			<a href="">[code]</a>
+			[code]
 		</h5>
 		<p>MCA: Modality Composition Awareness for Robust Composed Multimodal Retrieval</p>
 		<div class="tile_venue">EMNLP26</div>
@@ -325,9 +325,9 @@
 		<h3>MLLMCLIP</h3>
 		<a href=""><img src="./assets/mllmclip.png"></a>
 		<h5>
-			<a href="">[EMNLP]</a>
-			<a href="">[arXiv]</a>
-			<a href="">[code]</a>
+			[EMNLP]
+			[arXiv]
+			[code]
 		</h5>
 		<p>MLLMCLIP: Feature-Level Distillation of MLLM for Robust Vision-Language Representations</p>
 		<div class="tile_venue">EMNLP26</div>
@@ -336,9 +336,9 @@
 		<h3>Syn-Omni</h3>
 		<a href=""><img src="./assets/synomni.png"></a>
 		<h5>
-			<a href="">[EMNLP]</a>
-			<a href="">[arXiv]</a>
-			<a href="">[code]</a>
+			[EMNLP]
+			[arXiv]
+			[code]
 		</h5>
 		<p>Syn-Omni: Structured Specialization and Progressive Collaboration for Omnimodal Embeddings</p>
 		<div class="tile_venue">EMNLP26</div>
