@@ -869,6 +869,16 @@
 
 <div class="trow">
 	<div class="tile">
+		<h3>OmniUE</h3>
+		<img src="./assets/OmniUE.png">
+		<h5>
+			<a href="https://arxiv.org/abs/2608.27044">[arXiv]</a>
+			<a href="https://wywywang.github.io/omniue-demo/">[demo]</a>
+		</h5>
+		<p>Omni-Interactive Universal Embedder</p>
+		<div class="tile_venue">NeurIPS26</div>
+	</div>
+	<div class="tile">
 		<h3>ST-AudioLM</h3>
 		<img src="./assets/ST-AudioLM.png">
 		<h5>
